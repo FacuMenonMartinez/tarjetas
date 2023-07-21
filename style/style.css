@@ -146,7 +146,7 @@ h4{
 }
 
 .icoRedes{
-    max-width: 5vw;
+    max-width: 3vw;
 }
 
 /* Combinaciones de tarjetas */
@@ -239,6 +239,9 @@ h4{
     .colorGeneral{
         width: 5vw;
         height: 5vw;
+    }
+    .icoRedes{
+        max-width: 5vw;
     }
     
 }

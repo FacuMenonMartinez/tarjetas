@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
 }
 
 
@@ -52,7 +54,6 @@ h1{
 
 .descripcion{
     color:#F2E9E4 ;
-    font-weight: bolder;
     text-align: justify;
     font-size: 1.5rem;
     max-width: 90%;
